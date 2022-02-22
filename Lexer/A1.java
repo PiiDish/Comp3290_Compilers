@@ -20,6 +20,7 @@ public class A1
 			lexer = new Lexer(args[i]);
 
 			System.out.println("\n\tLexically analysing: " + args[i] + "\n");
+
 			do
 			{
 				putLine = new StringBuilder();
